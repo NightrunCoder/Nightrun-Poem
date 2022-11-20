@@ -1,4 +1,4 @@
-The Rainbow and Orbit1
+The Rainbow and Orbit1 and Orbit2
 
 Purple
 Pink
@@ -9,4 +9,5 @@ Unicorn
 Yellow
 Red
 These are the colours of the rainbow.
-And the unicorn.
+And Orbit1
+And Orbit2
