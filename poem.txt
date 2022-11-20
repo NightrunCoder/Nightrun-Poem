@@ -9,5 +9,5 @@ Unicorn
 Yellow
 Red
 These are the colours of the rainbow.
-And Orbit1
+And Unicorn
 And Orbit2
